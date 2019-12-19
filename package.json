@@ -1,0 +1,15 @@
+{
+  "name": "deploy-a-high-availability",
+  "version": "1.0.0",
+  "description": "Deploy-a high-availability app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CloudFormation",
+    "High-availability"
+  ],
+  "author": "William Florez",
+  "license": "ISC"
+}
